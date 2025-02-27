@@ -19,6 +19,9 @@
     <Filter Include="2일차_프로그래머스">
       <UniqueIdentifier>{a3ed7f3c-4488-488f-9d68-548c98f0f88e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="3일차_프로그래머스">
+      <UniqueIdentifier>{278e2c51-2b66-4c73-8a1b-7fa15db72063}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="flag에 따라 다른 값 반환하기.cpp">
@@ -50,6 +53,21 @@
     </ClCompile>
     <ClCompile Include="특수문자 출력하기.cpp">
       <Filter>2일차_프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="덧셈식 출력하기.cpp">
+      <Filter>3일차_프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 붙여서 출력하기.cpp">
+      <Filter>3일차_프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 돌리기.cpp">
+      <Filter>3일차_프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="홀짝 구분하기.cpp">
+      <Filter>3일차_프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 겹쳐쓰기.cpp">
+      <Filter>3일차_프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
